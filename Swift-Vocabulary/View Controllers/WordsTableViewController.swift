@@ -8,7 +8,7 @@
 
 import UIKit
 
-class WordsTableTableViewController: UITableViewController {
+class WordsTableViewController: UITableViewController {
     
     var vocabWords: [VocabularyWord] = [
     VocabularyWord(word: "Crazy", definition: "mentally deranged, especially as manifested in a wild or aggressive way."),
